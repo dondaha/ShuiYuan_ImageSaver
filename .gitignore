@@ -1,2 +1,5 @@
 venv/*
 headers.py
+saved/*
+__pycache__/*
+response_example.txt
